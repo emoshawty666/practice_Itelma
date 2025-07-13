@@ -1,3 +1,0 @@
-runs/obb/train16/weights/best.pt
-runs/obb/train16/weights/last.pt
-runs/obb/train18/weights/best.pt
