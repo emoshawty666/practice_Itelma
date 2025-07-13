@@ -1,0 +1,6 @@
+names:
+- zone
+- line
+nc: 2
+train: train/images
+val: validation/images
